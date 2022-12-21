@@ -2,35 +2,35 @@
     font-family: 'Supreme';
     font-style: normal;
     font-weight: 400;
-    src: url('Fonts/Supreme/Supreme-Regular.otf');
+    src: url('docs/assets/Fonts/Supreme/Supreme-Regular.otf');
 }
 
 @font-face {
     font-family: 'Supreme';
     font-style: normal;
     font-weight: 700;
-    src: url('Fonts/Supreme/Supreme-Bold.otf');
+    src: url('docs/assets/Fonts/Supreme/Supreme-Bold.otf');
 }
 
 @font-face {
     font-family: 'Supreme';
     font-style: normal;
     font-weight: 200;
-    src: url('Fonts/Supreme/Supreme-Light.otf');
+    src: url('docs/assets/Fonts/Supreme/Supreme-Light.otf');
 }
 
 @font-face {
     font-family: 'Supreme';
     font-style: normal;
     font-weight: 100;
-    src: url('Fonts/Supreme/Supreme-Thin.otf');
+    src: url('docs/assets/Fonts/Supreme/Supreme-Thin.otf');
 }
 
 @font-face {
     font-family: 'Source-sans-pro';
     font-style: normal;
     font-weight: 500;
-    src: url('Fonts/Source-sans-pro/SourceSansPro-Regular.otf');
+    src: url('docs/assets/Fonts/Source-sans-pro/SourceSansPro-Regular.otf');
 }
 *:root {
 
@@ -126,7 +126,7 @@ p {
     height: 100vh;
     margin: 0;
     max-width: 100%;
-    background-image: url("Landing/DSC03262.jpg");
+    background-image: url("docs/assets/Landing/DSC03262.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
