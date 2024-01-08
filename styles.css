@@ -30,7 +30,7 @@
     font-family: 'Source-sans-pro';
     font-style: normal;
     font-weight: 500;
-    src: url('docs/assets/Fonts/Source-sans-pro/SourceSansPro-Regular.otf');
+    src: url('https://cyrustt.github.io/docs/assets/Fonts/Source-sans-pro/SourceSansPro-Regular.otf');
 }
 *:root {
 
@@ -43,7 +43,7 @@
     --grey: #EDEDED;
 
     /*Font/text values*/
-    --main-font: Supreme;
+    --main-font: ITC Avant Garde Gothic Pro;
     --sub-font: Source-Sans-Pro;
     --font-style-normal: normal;
     --font-weight-medium: medium;
