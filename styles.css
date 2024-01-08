@@ -62,6 +62,7 @@
     font-style: var(--font-style-normal);
     font-weight: var(--font-weight-normal);
     font-size: var(--font-size-20);
+    font-color: var(--black);
     line-height: var(--line-spacing-28);
     letter-spacing: var(--character-spacing-4);
     color: var(--color-171717);
