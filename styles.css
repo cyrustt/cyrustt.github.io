@@ -63,7 +63,7 @@
     font-weight: var(--font-weight-normal);
     font-size: var(--font-size-20);
     line-height: var(--line-spacing-28);
-    letter-spacing: var(--character-spacing-3);
+    letter-spacing: var(--character-spacing-4);
     color: var(--color-171717);
     text-transform: var(--text-transform-uppercase);
     }
