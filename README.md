@@ -1,4 +1,4 @@
-# Cyrus Tsui — Photography Portfolio
+# Cyrus Tsui: Photography Portfolio
 
 [View the live portfolio](https://cyrustt.github.io/)
 
